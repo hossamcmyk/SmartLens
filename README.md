@@ -18,4 +18,4 @@
 - يستخدم التطبيق خدمات موثوقة مثل Google Cloud Vision API وML Kit لمعالجة الصور والنصوص
 
 ## دعم
-للاستفسارات المتعلقة بالخصوصية أو المحتوى: [support@smartlens.com](mailto:support@smartlens.com)
+للاستفسارات المتعلقة بالخصوصية أو المحتوى: [support@brimagine.com](mailto:support@brimagine.com)
