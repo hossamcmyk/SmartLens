@@ -1,2 +1,21 @@
-# SmartLens
-Privacy Policy and Terms pages for the Smart Lens app. Includes multi-language HTML versions (Arabic, English, French, German, Turkish, Spanish) with professional formatting and styling.
+# Smart Lens Privacy & Terms Pages
+
+هذا المستودع يحتوي على صفحات الخصوصية وشروط الاستخدام الخاصة بتطبيق **Smart Lens**.  
+
+## محتوى المستودع
+- صفحات HTML متعددة اللغات (العربية، الإنجليزية، الفرنسية، الألمانية، التركية، الإسبانية)
+- تصميم متوافق مع الهواتف والمتصفحات، يشمل دعم RTL للغات العربية
+- يشمل سياسة الخصوصية وشروط الاستخدام لكل لغة
+
+## استخدام
+- صفحات مخصصة للعرض على موقع رسمي للتطبيق
+- يمكن تعديل النصوص أو إضافة لغات جديدة حسب الحاجة
+- الملفات HTML جاهزة للرفع مباشرة إلى أي استضافة
+
+## ملاحظات
+- التطبيق لا يتطلب تسجيل دخول، ولا يجمع بيانات شخصية مثل البريد الإلكتروني أو UID
+- البيانات التي يعالجها التطبيق (صور، نصوص) مؤقتة، ولا تُخزن بشكل دائم
+- يستخدم التطبيق خدمات موثوقة مثل Google Cloud Vision API وML Kit لمعالجة الصور والنصوص
+
+## دعم
+للاستفسارات المتعلقة بالخصوصية أو المحتوى: [support@smartlens.com](mailto:support@smartlens.com)
